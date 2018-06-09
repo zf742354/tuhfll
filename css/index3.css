@@ -1,0 +1,89 @@
+
+.bj{
+    height: 70vh;
+    width: 100vw;
+    background: url(../image/hbbj.jpg);
+    position: relative;
+}
+
+.floor{
+    height: .7rem;
+    width: 2.26rem;
+    border-radius: 35px;
+    background: rgba(255,255,255,.1);
+    font-size: .36rem;
+    color: white;
+    margin-top: .77rem;
+}
+
+.floor2{
+    background: url(../image/hb.png);
+    background-repeat: no-repeat;
+    height: 5.94rem;
+    width: 4.72rem;
+    background-size: cover;
+    margin-top: .45rem;
+    position: relative;
+}
+.floor2-box{
+    border-radius: 20px;
+    background-color: rgba(255,213,196,.13);
+    bottom: 8%;
+    position: absolute;
+    padding: .28rem .4rem .28rem .4rem;
+}
+.floor2-box-p{
+    font-size: .3rem;
+    color: rgba(255,255,255,.3);
+    display: block;
+}
+.floor2-box-p2{
+    font-size: .3rem;
+    color: white;
+    padding: .2rem 0;
+    display: block;
+}
+.floor2-box-p3{
+    font-size: .28rem;
+    color: rgba(255,255,254,.31);
+}
+
+
+.floor3{
+    height: .84rem;
+    width: 100vw;
+    background-image: url(../image/hbd.png);
+    background-size: cover;
+    margin-top: -.84rem;
+    position: absolute;
+    bottom: 0;
+}
+.floor3-p{
+    font-size: .28rem;
+    color: #544d49;
+    margin-bottom: .46rem;
+}
+.floor3-box{
+    height: 1.04rem;
+    width: 6.86rem;
+    background: #469dff;
+    border-radius: 1000px;
+    box-shadow: inset 0 -4px 0 rgba(53,138,235,1);
+    font-size: .32rem;
+    color: white;
+    position: relative;
+}
+.qp{
+    height: .28rem;
+    width: .48rem;
+    background: url("../image/qp.png");
+    background-size: cover;
+    position: absolute;
+    left: .25rem;
+    top: .15rem;
+}
+
+
+
+
+
